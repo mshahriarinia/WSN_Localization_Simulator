@@ -1,0 +1,3 @@
+
+
+Why a node position from a neighbor is broadcast? 
